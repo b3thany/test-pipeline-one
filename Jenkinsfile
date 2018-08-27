@@ -5,7 +5,7 @@ pipeline {
       steps {
         echo 'Hello, world!'
         script {
-          echo "inscript"
+          publishEvent simpleEvent('Frobulate')
         }
 
       }
