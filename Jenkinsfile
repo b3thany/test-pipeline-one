@@ -4,6 +4,10 @@ pipeline {
     stage('Build') {
       steps {
         echo 'Hello, world!'
+        script {
+          echo "inscript"
+        }
+
       }
     }
   }
