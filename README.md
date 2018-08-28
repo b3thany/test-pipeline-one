@@ -1,2 +1,2 @@
 # test-pipeline-one
-This is a test comment of MASSIVE SIGNIFICANCE.
+This is the README for test-pipeline-one.
